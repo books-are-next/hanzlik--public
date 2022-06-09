@@ -2,9 +2,9 @@
 contentType: prose
 ---
 
-Josef Hanzlík
+**Josef Hanzlík**
 
-Potlesk pro Herodesa
+**Potlesk pro Herodesa**
 
 Edice Čeští básníci 20. století
 
