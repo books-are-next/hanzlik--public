@@ -1,8 +1,9 @@
 ---
+title: Pomsta
 contentType: prose
 ---
 
-## Pomsta
+<section>
 
 Pták noci tluče na zamčená vrata  
 Nemáte-li kliku pomazánu krví  
@@ -21,3 +22,5 @@ znamením svého přátelství
 a nebude hoře kterým byste neprošli  
 nebude smrti  
 kterou byste nezemřeli
+
+</section>

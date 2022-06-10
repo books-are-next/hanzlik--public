@@ -1,8 +1,9 @@
 ---
+title: Noe
 contentType: prose
 ---
 
-## Noe
+<section>
 
 Poslední dny před bouří  
 byly vražedné Lidé zabíjeli  
@@ -73,3 +74,5 @@ zde
 před dětmi  
 které jsouce bez zásluh  
 jsou i bez provinění
+
+</section>

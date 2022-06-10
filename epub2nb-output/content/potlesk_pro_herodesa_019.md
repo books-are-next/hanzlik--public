@@ -1,8 +1,9 @@
 ---
+title: Řeč mrtvých dětí
 contentType: prose
 ---
 
-## Řeč mrtvých dětí
+<section>
 
 Říkáme si velmi nenapsaná slova Téměř  
 z úst do úst Takže slova  
@@ -37,3 +38,5 @@ je hodnější Bývá nám dobře Tak
 vyrůstají z našich dlaní  
 nahoru k vám  
 drobné fialové bolístky
+
+</section>

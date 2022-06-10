@@ -1,8 +1,9 @@
 ---
+title: Tartat III
 contentType: prose
 ---
 
-## Tartat III
+<section>
 
 V patnácti letech  
 jsem prvně bohům obětoval  
@@ -93,3 +94,5 @@ jsme mu odňali ruce…
 jsem musel skrývat ono štětinaté ucho  
 Bůh  
 se už více nezjevil
+
+</section>

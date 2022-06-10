@@ -1,8 +1,9 @@
 ---
+title: Slavnost čtvrtá
 contentType: prose
 ---
 
-## Slavnost čtvrtá
+<section>
 
 Čtvero černých koní  
 prohledává místa  
@@ -51,3 +52,5 @@ a o mléku s medem
 
 jen o víře  
 jen o lži
+
+</section>

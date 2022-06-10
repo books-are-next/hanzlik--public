@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 **Josef Hanzlík**
 
@@ -25,3 +28,5 @@ ISBN 978-80-7602-806-7 (epub)
 ISBN 978-80-7602-807-4 (pdf)
 
 ISBN 978-80-7602-808-1 (prc)
+
+</section>
