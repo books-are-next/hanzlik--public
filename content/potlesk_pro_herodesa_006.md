@@ -1,8 +1,9 @@
 ---
+title: Zelené zrcadlo
 contentType: prose
 ---
 
-## Zelené zrcadlo
+<section>
 
 Dívka s dlouhými černými vlasy  
 prohlíží své faraónské oči  
@@ -101,3 +102,5 @@ snad právě v něm
 budou čísi bezsmyslné vrypy  
 objeveny  
 co záznamy altamirské
+
+</section>

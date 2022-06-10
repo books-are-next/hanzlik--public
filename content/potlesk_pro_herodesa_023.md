@@ -1,9 +1,9 @@
 ---
+title: Slavnost třetí (letní radostná)
 contentType: prose
 ---
 
-## Slavnost třetí  
-(letní radostná)
+<section>
 
 Modrá a lípová vánoční hrůza  
 nestinných zahrad v kolmém slunci
@@ -94,3 +94,5 @@ ach ano
 a láska liliová  
 zavřenými dveřmi  
 jako v komedii
+
+</section>

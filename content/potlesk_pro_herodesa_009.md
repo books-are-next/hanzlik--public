@@ -1,8 +1,9 @@
 ---
+title: Slavnost druhá
 contentType: prose
 ---
 
-## Slavnost druhá
+<section>
 
 Slituj se nežádej bronzovým nehtem  
 bran srdce mého  
@@ -68,3 +69,5 @@ a notový záznam z porážení vepře
 A nebojte se  
 miluji vašich ňader  
 nad spinetem jež dlouze zní…
+
+</section>

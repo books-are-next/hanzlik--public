@@ -1,8 +1,9 @@
 ---
+title: Čas sváteční
 contentType: prose
 ---
 
-## Čas sváteční
+<section>
 
 Po celou noc déšť marně zháší  
 světla na hřbitově Neboť mrtví  
@@ -21,3 +22,5 @@ jenom ne zuby… A mrtví
 využívajíce plnomocné noci zpívají za živé  
 starozákonně — s rukama rozpjatýma  
 a s hlavou vzhůru
+
+</section>

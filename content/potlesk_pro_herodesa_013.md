@@ -1,10 +1,11 @@
 ---
+title: Slova
 contentType: prose
 ---
 
-## Slova
+<section>
 
-### I
+## I
 
 V té chvíli k ránu kdy je vzduch  
 zdánlivé nejklidnější když dozněl noční pláč  
@@ -24,7 +25,7 @@ se střílí v koupelně Ovšem hlouposti neboť ona
 leží snad na dosah ruky leč zavřena v sobě  
 sedmiklíčem cizoty — a není slova jediného které…
 
-### II
+## II
 
 A přece jsou slova která rozmrazují a křísí  
 i jíní na obočí zemřelých slova mocnější skalpelů a snad i zbraně střelné Leč která to jsou  
@@ -40,3 +41,5 @@ troufalou drúzou slov mu umlčíme zpívající rty
 Nikoli — snad jen šílený Marinetti smí zaťukat  
 na čelo meduplné a bude vpuštěn — my pak  
 odcházejíce otevřme okna aby alespoň haluz či drát…
+
+</section>

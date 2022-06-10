@@ -1,8 +1,9 @@
 ---
+title: Postilión
 contentType: prose
 ---
 
-## Postilión
+<section>
 
 Za zvonivě mrazivé noci přijíždí postilión v modrobílém premovaném kabátu a s třírohým kloboukem plným třásní
 
@@ -15,3 +16,5 @@ A postilión klade Milost do natažených dlaní a sotva natažená dlaň Milost
 A takto rozdává Milost a vzápětí utíná paži držící Milost všem Úzkostným a Bázlivým a Milost čekajícím až k poslednímu z vesnice neboť i ten čeká že právě u něj bude učiněna výjimka
 
 A teprve v lese za vsí vyhazuje postilión všechny uťaté paže ze saní odebíraje jim ony ozdobné obálky s nepopsaným papírem aby je pokud nejsou příliš od krve přivezl dalším
+
+</section>

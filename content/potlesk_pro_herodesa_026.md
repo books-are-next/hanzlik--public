@@ -1,8 +1,9 @@
 ---
+title: Příběh
 contentType: prose
 ---
 
-## Příběh
+<section>
 
 Ano lze jen vypovídat  
 Tedy po pravdě A přece pohleďte  
@@ -61,3 +62,5 @@ v němž více smíme a tedy více jsme —
 s onou amforou tající slzy láskou vyplakané  
 jež se nám stále rozbíjí a již  
 právě jen ve snu stále slepujeme
+
+</section>

@@ -1,9 +1,9 @@
 ---
+title: Jidáš (k učedníkům Ježíšovým)
 contentType: prose
 ---
 
-## Jidáš  
-(k učedníkům Ježíšovým)
+<section>
 
 Je tedy konec Vy zbabělí psi  
 vy hrdí jemní vznešení vy něžných očí  
@@ -90,3 +90,5 @@ tento pahorek
 se zdá být výhodný  
 Jen ještě větev  
 Provaz mám
+
+</section>

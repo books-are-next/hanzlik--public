@@ -1,8 +1,9 @@
 ---
+title: xxx
 contentType: prose
 ---
 
-## xxx
+<section>
 
 Kdo jede s černým kočárem  
 v tomto neútěšném dešti  
@@ -21,3 +22,5 @@ na kost zbědován
 kdo jede s kočárem prázdným  
 kdo ne-li hrobař jenž jako kapitán  
 umírá poslední
+
+</section>

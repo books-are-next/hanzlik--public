@@ -1,8 +1,9 @@
 ---
+title: Potlesk pro Herodesa
 contentType: prose
 ---
 
-## Potlesk pro Herodesa
+<section>
 
 My  
 malé děti v košilkách  
@@ -106,3 +107,5 @@ a těšíme se na svůj potlesk
 pro Herodesa
 
 jenž podruhé nás přijde zabíjet
+
+</section>

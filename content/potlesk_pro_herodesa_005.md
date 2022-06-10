@@ -1,8 +1,9 @@
 ---
+title: Slavnost první
 contentType: prose
 ---
 
-## Slavnost první
+<section>
 
 Pro každého kdo přislíbí účast  
 na dnešní slavnosti  
@@ -57,3 +58,5 @@ jako hlavy naražené na kůly
 Tehdy se opiji  
 a zpívám malou jarní píseň  
 plnou veselých šílených květin
+
+</section>

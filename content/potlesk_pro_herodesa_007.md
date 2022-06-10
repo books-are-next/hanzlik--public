@@ -1,8 +1,9 @@
 ---
+title: Domek za tratí
 contentType: prose
 ---
 
-## Domek za tratí
+<section>
 
 Ano také mám domek se střechou porostlou mechem  
 jenž líná jako kůň kterého líto střelit  
@@ -21,3 +22,5 @@ padám tváří proti dešti a oslepen jím
 chytám se jeho vláken jako nesmírných rusých vlasů  
 vlajících z vlaku jenž bije kopyty a prchá  
 nenávratně — jako kůň z tohoto věku
+
+</section>

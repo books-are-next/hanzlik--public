@@ -1,8 +1,9 @@
 ---
+title: xxx
 contentType: prose
 ---
 
-## xxx
+<section>
 
 Neustálé geometrické objevy  
 Trojúhelníky se přežívají Móda  
@@ -26,3 +27,5 @@ vdechnutí těla do chlapecké duše
 Rudý déšť Bílá krev Cokoli  
 I ženu lze stvořit Jenom ne  
 z vykopnutého žebra
+
+</section>

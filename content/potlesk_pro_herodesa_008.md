@@ -1,10 +1,11 @@
 ---
+title: Labutí jezero
 contentType: prose
 ---
 
-## Labutí jezero
+<section>
 
-### I
+## I
 
 Čteme oněmlé stromy A z korun  
 padají listy a modrá jablka Někdy dávno  
@@ -65,7 +66,7 @@ omývajících naši pravdivější tvář Je to noc
 a v noci i maso zimních ptáků  
 pálí jako led
 
-### II
+## II
 
 Světlo jde spát A těžce padá mlha  
 jako ze schodů věže Jde o příběh  
@@ -123,3 +124,5 @@ plují kolem puškvorcových stvolů Na březích
 střílejí děti do labutích krků  
 se smíchem  
 jako do škodné
+
+</section>

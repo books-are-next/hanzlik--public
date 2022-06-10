@@ -1,8 +1,9 @@
 ---
+title: Elegie
 contentType: prose
 ---
 
-## Elegie
+<section>
 
 Moci tě v sobě odemknout abys vykřikla  
 ale šťastně Moci tě odemknout abys zpívala  
@@ -21,3 +22,5 @@ za ústa a vlasy jako tonoucího
 A ty se beze slova vymykáš a náměsíčně tiše jdeš  
 jako pod křížem… A za tebou tvé rudé stopy běží  
 to listí steskem šílené
+
+</section>
