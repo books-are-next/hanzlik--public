@@ -24,7 +24,7 @@ všichni mě měli za blázna a nikdo
 kromě několika osiřelých dětí a chromé pýthie  
 jež po výjezdu skonala  
 mě nechtěl provázet…  
-                                          Pak přišla bouře  
+             Pak přišla bouře  
 Moji vlastní synové a dcery  
 a všichni blízcí řezali si hrdla  
 zbylí a starci nemocní a děti  
@@ -59,7 +59,7 @@ což nikdo kromě tebe
 nevzpomněl na nejmenší na ty  
 kteří jsou zůstaveni péči  
 jako květiny…  
-                           A já jsem do krve  
+             A já jsem do krve  
 hryzal své klouby bezmocí a hořem  
 a já jsem po návratu celé dny  
 celé noci beze spánku kypřil zemi  

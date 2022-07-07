@@ -29,7 +29,7 @@ Vy farizeji Vy jste chtěli
 aby byl zabit Neboť na mrtvole  
 doposud teplé stavěli jste chrám  
 kde vy budete kralovat…  
-                                               Já tedy jdu  
+             Já tedy jdu  
 Vyhledat silnou větev  
 a viditelnou tak aby se Jeruzalém  
 moh tři dni tupě smát Já který jediný  
@@ -45,7 +45,7 @@ který pochopil že celý Mistrův krám
 dětinských zázraků a lidumilných skutků  
 je dnes už k ničemu Že dnes je třeba šířit  
 Učení rychlou řečí střel a sekyr…  
-                                                               A já  
+             A já  
 měl plán Já chtěl  
 aby byl Mistr jat a držen v temnici  
 co možno z nejhorších To já jsem vymyslel  
@@ -55,7 +55,7 @@ za těžší trámy na kříž To já jsem přilákal
 na vleklou Kalvárii  
 zástupy pobudů A vposled to já sám  
 se vetřel k veleknězi…  
-                                           Jak krutě  
+             Jak krutě  
 měl být přelstěn Neboť já  
 jsem spoléhal na vás vy něžné zmije  
 že silou Slova rozpoutáte v davech  
@@ -77,7 +77,7 @@ a proto raděj šel
 krotce jak ovce k obětnímu stolci  
 Tak nejen vy ale i On  
 prohrál můj boj a zradil…  
-                                                 Zrádcem pro věčnost  
+             Zrádcem pro věčnost  
 pro historii která jako vždy  
 se směje naposled však mám být já  
 já rodný bratr Kaina jenž byl moudřejší  
