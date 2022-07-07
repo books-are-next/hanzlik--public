@@ -34,7 +34,7 @@ loutky zemřelých Není zde Achilla
 bez hlavy a paty A není gilotiny
 
 bez Homéra a kolovrátku  
-                                                 Jezero tlí  
+             Jezero tlí  
 Mrtvé labutí maso  
 dere se k veřejím Ještě po smrti  
 chtějí být slyšeni  
@@ -73,7 +73,7 @@ jako ze schodů věže Jde o příběh
 na hrací strojek A on zatím  
 skřípe nám v hodinách jako vánoční písek  
 z vnitřností ryby  
-                               Vzpomínka na zahradní slavnost  
+             Vzpomínka na zahradní slavnost  
 v léčebně duševně chorých Muži  
 v nevzhledných botách A ženy v halenkách  
 s umělými květinami Bylo odpoledne  
@@ -87,7 +87,7 @@ A ještě
 Vracel jsem se a ona zaplakala  
 jako když vítr žene déšť  
 na ptačí jablka  
-                            Jenom ve snu  
+             Jenom ve snu  
 pojí se takto černá s červenou My bdící  
 nic nechápem a proto tolik marně  
 píšem jak do not v divné cizí řeči Opravdu  
@@ -101,7 +101,7 @@ a ovšem
 do jezera které se rozčeří  
 že povyplavou kůstky  
 a pírka labutí  
-                         Tehdy dávno  
+             Tehdy dávno  
 spěchal jsem s dívkou vlasů světlejších  
 než arniková vůně Na kraji lesa  
 seděla na květech postava v tak jurodivém pláči  

@@ -14,7 +14,7 @@ odpouštiví a pomstychtiví — a co hůř
 že se nezavděčíš nejen lidem  
 ale ani bohům a nejen bohům  
 ale ani lidem…  
-                            Prvního léta vlády  
+             Prvního léta vlády  
 došla mě zvěst o odpadlících z hor  
 šířících víru v jediného boha Již dříve  
 uvěznil otec věrozvěsty a s nimi  
@@ -39,7 +39,7 @@ a srdceryvných pláčů museli vyslechnout
 Tak neminulo dne  
 abychom výstražně nesetnuli pár hlav  
 a nezažehli dům…  
-                                   Jednoho jitra  
+             Jednoho jitra  
 šťasten i unaven přemírou práce  
 odjel jsem k jezeru Sevan Osvěžili jsme se  
 v nebesky modrých a jantarových vodách  
@@ -59,7 +59,7 @@ obrátil zraky k nebesům a bůh
 mi vrátil lidskou podobu Jen levé ucho  
 zůstalo odchlíplé a štětinaté  
 jako stálá připomínka boží moci…  
-                                                                 Celý večer  
+             Celý večer  
 jsem setrvával v modlitbách Druhý den  
 jsem svolal armádu a rozdělil kraje Vzápětí  
 rozhořely se první požáry  
@@ -75,7 +75,7 @@ jež jsem dal pobít Sám jsem políbil
 tepanou rakev s ostatky líbezné Ripsime  
 jejíhož skonu poblíž paláce  
 jsem se byl kdysi zúčastnil…  
-                                                      Při všech mších  
+             Při všech mších  
 které jsem potom pilně navštěvoval  
 i při soukromých modlitbách v zlacené kapli  
 jsem pošilhával k oltářům  
@@ -90,7 +90,7 @@ i slepého a šíleného pohanského kněze
 jenž jediný přežil své druhy a nadto  
 přestal obětovat bohům — už dávno  
 jsme mu odňali ruce…  
-                                          Žel až do smrti  
+             Žel až do smrti  
 jsem musel skrývat ono štětinaté ucho  
 Bůh  
 se už více nezjevil
