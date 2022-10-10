@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-potlesk-pro-herodesa-186d9f9",
-  "revision": "186d9f9",
+  "identifier": "hanzlik-potlesk-pro-herodesa-4414cc4",
+  "revision": "4414cc4",
   "readingOrder": [
     "promo.html",
     "potlesk_pro_herodesa_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151817384
+    "date": "Mon Oct 10 2022 16:03:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417801964
   },
   "documents": [
     {
@@ -569,7 +569,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 915,
+      "chars": 916,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -589,7 +589,7 @@
   "totals": {
     "all": {
       "words": 6373,
-      "chars": 35531,
+      "chars": 35532,
       "ideas": 1225
     },
     "chapters": {
