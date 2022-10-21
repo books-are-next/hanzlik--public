@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-potlesk-pro-herodesa-4414cc4",
-  "revision": "4414cc4",
+  "identifier": "hanzlik-potlesk-pro-herodesa-498fd1a",
+  "revision": "498fd1a",
   "readingOrder": [
     "promo.html",
     "potlesk_pro_herodesa_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:03:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417801964
+    "date": "Fri Oct 21 2022 11:32:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351947004
   },
   "documents": [
     {
